@@ -2,6 +2,7 @@
 
 ![image](https://github.com/sunstromium/OTPVERIFIER/assets/118994059/832000a1-06b7-442a-ade0-c3b61126b428)
 
+# project deployed here https://sunstromium.github.io/OTPVERIFIER/
 
 # Getting Started with Create React App
 
