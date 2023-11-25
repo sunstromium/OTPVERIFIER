@@ -1,11 +1,10 @@
-![localhost_3000_ (1)](https://user-images.githubusercontent.com/75136330/212552633-fe138d61-89da-4ece-9497-a6c779e50f33.png)
+![image](https://github.com/sunstromium/OTPVERIFIER/assets/118994059/2386437c-8125-4979-af8a-fd49ee0d6d50)
 
-![localhost_3000_ (2)](https://user-images.githubusercontent.com/75136330/212552636-ad154d82-2358-4de7-b6b5-c6e68c8b918e.png)
+![image](https://github.com/sunstromium/OTPVERIFIER/assets/118994059/832000a1-06b7-442a-ade0-c3b61126b428)
 
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
